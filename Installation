@@ -1,6 +1,7 @@
 Spelling Checker:
-GO IN TERMINAL AND INSTALL ALL MODULES WE NEED , JUST COPY AND PAST THIS  :-
--C:\Users\91975\AppData\Local\Programs\Python\Python38\python.exe" -m pip install textblob
--C:\Users\91975\AppData\Local\Programs\Python\Python38\python.exe" -m textblob.download_corpora
+GO TO THE TERMINAL AND INSTALL ALL MODULES WE NEED, JUST COPY AND PASTE THIS:-
+- pip install textblob
+- textblob.download_corpora
 
-Only after that your code will run properly.
+Only after that will your code run properly.
+
